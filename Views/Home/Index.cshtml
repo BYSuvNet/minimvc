@@ -1,0 +1,14 @@
+@* Här säger vi vad det objekt som skickas in i View()-metoden är av för faktisk typ *@
+@model List<HighScore>
+
+Här loopas en lista av HighScore-objekt ut och renderas som en lista med namn.
+
+@{
+    foreach (var item in Model)
+    {
+        <p>@item.Name</p>
+    }
+}
+
+Exempel på länk till annan sida som renderas via metoden About i Home-kontrollern
+<a href="/Home/About">About us!</a>
