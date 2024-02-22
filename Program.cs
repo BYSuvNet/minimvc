@@ -1,6 +1,20 @@
+using Serilog;
+
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddControllersWithViews();
+
+var log = new LoggerConfiguration()
+    .MinimumLevel.Debug()
+    .WriteTo.Console()
+    .WriteTo.File("log.txt",
+        rollingInterval: RollingInterval.Day,
+        rollOnFileSizeLimit: true)
+    .CreateLogger();
+
+builder.Logging.ClearProviders();
+// builder.Logging.AddConsole();
+builder.Logging.AddSerilog(log);
 
 var app = builder.Build();
 

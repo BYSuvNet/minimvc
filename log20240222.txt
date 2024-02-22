@@ -1,0 +1,94 @@
+2024-02-22 10:37:34.206 +01:00 [INF] User profile is available. Using 'C:\Users\skrap\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-02-22 10:37:34.405 +01:00 [INF] Now listening on: http://localhost:5290
+2024-02-22 10:37:34.411 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-02-22 10:37:34.414 +01:00 [INF] Hosting environment: Development
+2024-02-22 10:37:34.415 +01:00 [INF] Content root path: C:\Users\skrap\Documents\PROGRAMMERING\SUVNET23\OOP2\MVC\Livedemo
+2024-02-22 10:38:15.211 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5290/ - null null
+2024-02-22 10:38:15.270 +01:00 [INF] Executing endpoint 'HomeController.Index (Livedemo)'
+2024-02-22 10:38:15.293 +01:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller HomeController (Livedemo).
+2024-02-22 10:38:15.303 +01:00 [INF] Hello from the Index action in HomeController!
+2024-02-22 10:38:15.363 +01:00 [INF] Executing ViewResult, running view Index.
+2024-02-22 10:38:15.421 +01:00 [INF] Executed ViewResult - view Index executed in 57.8564ms.
+2024-02-22 10:38:15.431 +01:00 [INF] Executed action HomeController.Index (Livedemo) in 132.5094ms
+2024-02-22 10:38:15.434 +01:00 [INF] Executed endpoint 'HomeController.Index (Livedemo)'
+2024-02-22 10:38:15.440 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5290/ - 200 null text/html; charset=utf-8 232.2461ms
+2024-02-22 10:39:34.145 +01:00 [INF] Application is shutting down...
+2024-02-22 10:48:04.887 +01:00 [DBG] Registered model binder providers, in the following order: ["Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.TryParseModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider"]
+2024-02-22 10:48:05.019 +01:00 [DBG] Hosting starting
+2024-02-22 10:48:05.046 +01:00 [INF] User profile is available. Using 'C:\Users\skrap\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-02-22 10:48:05.060 +01:00 [DBG] Reading data from file 'C:\Users\skrap\AppData\Local\ASP.NET\DataProtection-Keys\key-0e2aca58-1fa5-4455-a6fa-c99eaa85a906.xml'.
+2024-02-22 10:48:05.069 +01:00 [DBG] Reading data from file 'C:\Users\skrap\AppData\Local\ASP.NET\DataProtection-Keys\key-4c431ec6-e41e-43a5-bf7a-e742e87695f1.xml'.
+2024-02-22 10:48:05.073 +01:00 [DBG] Reading data from file 'C:\Users\skrap\AppData\Local\ASP.NET\DataProtection-Keys\key-80bc7876-ec2e-4eb7-9188-43e84dbb3bab.xml'.
+2024-02-22 10:48:05.075 +01:00 [DBG] Reading data from file 'C:\Users\skrap\AppData\Local\ASP.NET\DataProtection-Keys\key-82cdc142-bd14-448e-a743-56fdbd92ff04.xml'.
+2024-02-22 10:48:05.078 +01:00 [DBG] Reading data from file 'C:\Users\skrap\AppData\Local\ASP.NET\DataProtection-Keys\key-9c54376e-b403-424f-84ea-861574407672.xml'.
+2024-02-22 10:48:05.082 +01:00 [DBG] Reading data from file 'C:\Users\skrap\AppData\Local\ASP.NET\DataProtection-Keys\key-f034eac4-ff0a-4638-80c6-b294e1a3476a.xml'.
+2024-02-22 10:48:05.085 +01:00 [DBG] Reading data from file 'C:\Users\skrap\AppData\Local\ASP.NET\DataProtection-Keys\key-f0f932da-69a7-4ef6-a4d5-5195e35e5a6f.xml'.
+2024-02-22 10:48:05.088 +01:00 [DBG] Reading data from file 'C:\Users\skrap\AppData\Local\ASP.NET\DataProtection-Keys\key-f67a8d34-ed04-47b3-8346-7815886acff2.xml'.
+2024-02-22 10:48:05.091 +01:00 [DBG] Reading data from file 'C:\Users\skrap\AppData\Local\ASP.NET\DataProtection-Keys\key-fb05bcd1-40bc-4727-861b-5a3303db16ad.xml'.
+2024-02-22 10:48:05.094 +01:00 [DBG] Reading data from file 'C:\Users\skrap\AppData\Local\ASP.NET\DataProtection-Keys\key-fd6a6d4d-7791-4817-81fe-92466a556fee.xml'.
+2024-02-22 10:48:05.105 +01:00 [DBG] Found key {0e2aca58-1fa5-4455-a6fa-c99eaa85a906}.
+2024-02-22 10:48:05.113 +01:00 [DBG] Found key {4c431ec6-e41e-43a5-bf7a-e742e87695f1}.
+2024-02-22 10:48:05.117 +01:00 [DBG] Found key {80bc7876-ec2e-4eb7-9188-43e84dbb3bab}.
+2024-02-22 10:48:05.119 +01:00 [DBG] Found key {82cdc142-bd14-448e-a743-56fdbd92ff04}.
+2024-02-22 10:48:05.122 +01:00 [DBG] Found key {9c54376e-b403-424f-84ea-861574407672}.
+2024-02-22 10:48:05.125 +01:00 [DBG] Found key {f034eac4-ff0a-4638-80c6-b294e1a3476a}.
+2024-02-22 10:48:05.127 +01:00 [DBG] Found key {f0f932da-69a7-4ef6-a4d5-5195e35e5a6f}.
+2024-02-22 10:48:05.130 +01:00 [DBG] Found key {f67a8d34-ed04-47b3-8346-7815886acff2}.
+2024-02-22 10:48:05.133 +01:00 [DBG] Found key {fb05bcd1-40bc-4727-861b-5a3303db16ad}.
+2024-02-22 10:48:05.135 +01:00 [DBG] Found key {fd6a6d4d-7791-4817-81fe-92466a556fee}.
+2024-02-22 10:48:05.149 +01:00 [DBG] Considering key {fb05bcd1-40bc-4727-861b-5a3303db16ad} with expiration date 2024-05-19 22:15:55Z as default key.
+2024-02-22 10:48:05.155 +01:00 [DBG] Forwarded activator type request from Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Version=8.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2024-02-22 10:48:05.162 +01:00 [DBG] Decrypting secret element using Windows DPAPI.
+2024-02-22 10:48:05.167 +01:00 [DBG] Forwarded activator type request from Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Version=8.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2024-02-22 10:48:05.175 +01:00 [DBG] Opening CNG algorithm 'AES' from provider 'null' with chaining mode CBC.
+2024-02-22 10:48:05.181 +01:00 [DBG] Opening CNG algorithm 'SHA256' from provider 'null' with HMAC.
+2024-02-22 10:48:05.187 +01:00 [DBG] Using key {fb05bcd1-40bc-4727-861b-5a3303db16ad} as the default key.
+2024-02-22 10:48:05.191 +01:00 [DBG] Key ring with default key {fb05bcd1-40bc-4727-861b-5a3303db16ad} was loaded during application startup.
+2024-02-22 10:48:05.309 +01:00 [INF] Now listening on: http://localhost:5290
+2024-02-22 10:48:05.312 +01:00 [DBG] Loaded hosting startup assembly Livedemo
+2024-02-22 10:48:05.314 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-02-22 10:48:05.316 +01:00 [INF] Hosting environment: Development
+2024-02-22 10:48:05.318 +01:00 [INF] Content root path: C:\Users\skrap\Documents\PROGRAMMERING\SUVNET23\OOP2\MVC\Livedemo
+2024-02-22 10:48:05.320 +01:00 [DBG] Hosting started
+2024-02-22 10:49:01.030 +01:00 [DBG] Connection id "0HN1JHDVM1NLS" accepted.
+2024-02-22 10:49:01.033 +01:00 [DBG] Connection id "0HN1JHDVM1NLS" started.
+2024-02-22 10:49:01.091 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5290/ - null null
+2024-02-22 10:49:01.102 +01:00 [DBG] Wildcard detected, all requests with hosts will be allowed.
+2024-02-22 10:49:01.144 +01:00 [DBG] 1 candidate(s) found for the request path '/'
+2024-02-22 10:49:01.153 +01:00 [DBG] Endpoint 'HomeController.Index (Livedemo)' with route pattern '{controller=Home}/{action=Index}/{id?}' is valid for the request path '/'
+2024-02-22 10:49:01.158 +01:00 [DBG] Request matched endpoint 'HomeController.Index (Livedemo)'
+2024-02-22 10:49:01.173 +01:00 [INF] Executing endpoint 'HomeController.Index (Livedemo)'
+2024-02-22 10:49:01.195 +01:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller HomeController (Livedemo).
+2024-02-22 10:49:01.202 +01:00 [DBG] Execution plan of authorization filters (in the following order): ["None"]
+2024-02-22 10:49:01.206 +01:00 [DBG] Execution plan of resource filters (in the following order): ["Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter"]
+2024-02-22 10:49:01.211 +01:00 [DBG] Execution plan of action filters (in the following order): ["Microsoft.AspNetCore.Mvc.Filters.ControllerActionFilter (Order: -2147483648)","Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)"]
+2024-02-22 10:49:01.214 +01:00 [DBG] Execution plan of exception filters (in the following order): ["None"]
+2024-02-22 10:49:01.216 +01:00 [DBG] Execution plan of result filters (in the following order): ["Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter"]
+2024-02-22 10:49:01.222 +01:00 [DBG] Executing controller factory for controller HomeController (Livedemo)
+2024-02-22 10:49:01.224 +01:00 [DBG] Executed controller factory for controller HomeController (Livedemo)
+2024-02-22 10:49:01.229 +01:00 [INF] Hello from the Index action in HomeController!
+2024-02-22 10:49:01.303 +01:00 [DBG] Initializing Razor view compiler with compiled view: '/Views/Home/About.cshtml'.
+2024-02-22 10:49:01.305 +01:00 [DBG] Initializing Razor view compiler with compiled view: '/Views/Home/Index.cshtml'.
+2024-02-22 10:49:01.311 +01:00 [DBG] Initializing Razor view compiler with compiled view: '/Views/Shared/_Layout.cshtml'.
+2024-02-22 10:49:01.313 +01:00 [DBG] Initializing Razor view compiler with compiled view: '/Views/_ViewStart.cshtml'.
+2024-02-22 10:49:01.324 +01:00 [DBG] View lookup cache miss for view 'Index' in controller 'Home'.
+2024-02-22 10:49:01.336 +01:00 [INF] Executing ViewResult, running view Index.
+2024-02-22 10:49:01.344 +01:00 [DBG] The view path '/Views/Home/Index.cshtml' was found in 14.7863ms.
+2024-02-22 10:49:01.377 +01:00 [DBG] View lookup cache miss for view '_Layout' in controller 'Home'.
+2024-02-22 10:49:01.407 +01:00 [INF] Executed ViewResult - view Index executed in 83.717ms.
+2024-02-22 10:49:01.412 +01:00 [INF] Executed action HomeController.Index (Livedemo) in 192.6522ms
+2024-02-22 10:49:01.416 +01:00 [INF] Executed endpoint 'HomeController.Index (Livedemo)'
+2024-02-22 10:49:01.419 +01:00 [DBG] Connection id "0HN1JHDVM1NLS" completed keep alive response.
+2024-02-22 10:49:01.425 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5290/ - 200 null text/html; charset=utf-8 336.8775ms
+2024-02-22 10:49:07.956 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5290/asdfsd - null null
+2024-02-22 10:49:07.965 +01:00 [DBG] No candidates found for the request path '/asdfsd'
+2024-02-22 10:49:07.967 +01:00 [DBG] Request did not match any endpoints
+2024-02-22 10:49:07.974 +01:00 [DBG] Connection id "0HN1JHDVM1NLS" completed keep alive response.
+2024-02-22 10:49:07.977 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5290/asdfsd - 404 0 null 20.5406ms
+2024-02-22 10:49:07.987 +01:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5290/asdfsd, Response status code: 404
+2024-02-22 10:49:56.458 +01:00 [INF] Application is shutting down...
+2024-02-22 10:49:56.461 +01:00 [DBG] Hosting stopping
+2024-02-22 10:49:56.485 +01:00 [DBG] Connection id "0HN1JHDVM1NLS" disconnecting.
+2024-02-22 10:49:56.494 +01:00 [DBG] Connection id "0HN1JHDVM1NLS" stopped.
+2024-02-22 10:49:56.500 +01:00 [DBG] Connection id "0HN1JHDVM1NLS" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-02-22 10:49:56.508 +01:00 [DBG] Hosting stopped
